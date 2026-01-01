@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="750" height="661" alt="image" src="https://github.com/user-attachments/assets/dcf648fb-b818-43fd-972d-d3eaa9df7d97" />
+
 
 <!--
 **th3blueblur/th3blueblur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
